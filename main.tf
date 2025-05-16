@@ -7,7 +7,7 @@ resource "aws_s3_bucket" "git_demo" {
   acl    = "private"
 
   tags = {
-    Name = "Git-Demo"
+    Name = "Git-Demo12345"
   }
 }
 
